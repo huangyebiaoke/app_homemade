@@ -1,0 +1,11 @@
+| **name** | **fetures** | **screenshot** | **ps** |
+| :-----: | :---- | :----: |:---- |
+|diary|早期做的一个日记APP，还没了解Android本地的sqllite数据库，所以用的是远程的MySql数据库，后面懒得重构了/(ㄒoㄒ)/~~|<img src="http://pan.madeai.cn/?/pictures/app_homemade_screenshot/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202002241118145.png" width="50%" alt="onloading">|无|
+|WeChat|利用Java的socketAPI和在centos搭建的回声服务器之间传递Json字符串来实现即时聊天的功能|<img src="http://pan.madeai.cn/?/pictures/app_homemade_screenshot/Screenshot_2020-02-24-11-03-31-014_cn.madeai.wechat.png" width="50%" alt="onloading">|非商业用途，[V1.0开源地址](https://github.com/huangyebiaoke/WeChat) |
+|brain-demo|参与老师的科研项目，该APP主要功能为利用蓝牙连接检测脑电波的设备，将波形图显示在APP上，同时把GPS定位信息和采集到的脑电信息传到远程的MySql数据库里|<img src="http://pan.madeai.cn/?/pictures/app_homemade_screenshot/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202002241118141.png" width="50%" alt="onloading">|源码不便公开，[演示视频](http://pan.madeai.cn/?/video/BrainDemo.mp4)|
+|Translator|一个简洁的翻译APP，利用有道的API|<img src="http://pan.madeai.cn/?/pictures/app_homemade_screenshot/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200224111814.png" width="50%" alt="onloading">|吐槽有道的开屏广告|
+|SoMusic|一个搜索QQ，网易，酷狗音乐，并支持试听下载付费音乐的APP（非商业用途），利用meting的API|<img src="http://pan.madeai.cn/?/pictures/app_homemade_screenshot/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200224111814.jpg" width="50%" alt="onloading">|非商业用途，[API地址](https://api.i-meto.com/meting/api?server=netease&type=playlist&id=573623248)|
+|ToDo|一个记录代办事项的APP，主要是方便自己的学习生活（自产自销😀）|<img src="http://pan.madeai.cn/?/pictures/app_homemade_screenshot/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202002241118144.png" width="50%" alt="onloading">|无|
+|Blog|个人博客移动端，利用博客RSS订阅的功能，解析Json字符串，解析markdown格式的博文内容|<img src="http://pan.madeai.cn/?/pictures/app_homemade_screenshot/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202002241118141.jpg" width="50%" alt="onloading">|[开源地址](https://github.com/huangyebiaoke/Blog)|
+|ColorPicker|拾色器|<img src="http://pan.madeai.cn/?/pictures/app_homemade_screenshot/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202002241118143.png" width="50%" alt="onloading">|无|
+|Random|（伪）随机数生成器|<img src="http://pan.madeai.cn/?/pictures/app_homemade_screenshot/Screenshot_2020-02-24-12-07-08-176_cn.madeai.random.png" width="50%" alt="onloading">|无|
